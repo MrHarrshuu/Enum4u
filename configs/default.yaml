@@ -1,0 +1,19 @@
+mode: default
+
+engine:
+  timeout: 60
+  concurrency: 4
+
+modules:
+  recon: true
+  enumeration: true
+  web: true
+  assessment: false
+
+tools:
+  subfinder: true
+  dnsx: true
+  httpx: true
+  nmap: true
+  katana: true
+  nuclei: false

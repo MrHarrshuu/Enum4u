@@ -1,0 +1,19 @@
+mode: deep
+
+engine:
+  timeout: 120
+  concurrency: 8
+
+modules:
+  recon: true
+  enumeration: true
+  web: true
+  assessment: true
+
+tools:
+  subfinder: true
+  dnsx: true
+  httpx: true
+  nmap: true
+  katana: true
+  nuclei: true
