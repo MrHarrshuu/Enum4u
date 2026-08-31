@@ -1,4 +1,4 @@
-# ENUM4U
+>> Enum4u!
 
 > Unified Security Assessment Framework for automated reconnaissance, enumeration, vulnerability intelligence, risk analysis, and attack surface mapping.
 
@@ -8,7 +8,7 @@ It combines reconnaissance, service enumeration, web crawling, vulnerability int
 
 ---
 
-# Features
+>> Features
 
 - Subdomain Enumeration
 - DNS Reconnaissance
@@ -30,7 +30,7 @@ It combines reconnaissance, service enumeration, web crawling, vulnerability int
 
 ---
 
-## Architecture
+>> Architecture
 
 ```text
 Target
@@ -147,7 +147,7 @@ Enum4u --help
 
 ---
 
-# External Tools
+>> External Tools
 
 ENUM4U integrates with several external security tools.
 
@@ -168,7 +168,7 @@ Enum4u --check
 
 ---
 
-# Usage
+>> Usage
 
 ## Fast Assessment
 
@@ -274,8 +274,7 @@ Enum4u example.com --graph
 | `--active` | Active enumeration mode |
 
 ---
-
-# Output
+>> Output
 
 ENUM4U generates structured assessment reports.
 
@@ -294,8 +293,7 @@ Contains structured scan results suitable for automation and further analysis.
 Provides a human-readable assessment report.
 
 ---
-
-# Example
+>> Example
 
 ```bash
 Enum4u scanme.nmap.org --fast
@@ -311,7 +309,7 @@ Enum4u example.com --fast
 ---
 
 
-# Disclaimer
+>> Disclaimer
 
 ENUM4U is intended for authorized security testing, research, and educational purposes only.
 
@@ -321,7 +319,7 @@ The developer assumes no liability for misuse or damage caused by this tool.
 
 ---
 
-# Roadmap
+>> Roadmap
 
 Future development may include:
 
@@ -336,8 +334,7 @@ Future development may include:
 - CI/CD Integration
 
 ---
-
-# Contributing
+>> Contributing
 
 Contributions, bug reports, and feature requests are welcome.
 
@@ -349,17 +346,17 @@ Contributions, bug reports, and feature requests are welcome.
 
 ---
 
-# Author
+>> Author
 
--> Harsh Kumar Singh!
+> Harsh Kumar Singh!
 
-Cybersecurity Researcher | Ethical Hacker | Security Tool Developer
+Security Researcher | Red Team Aspirant | Jr. Pentester 
 
 GitHub: https://github.com/MrHarrshuu
 
 ---
 
-# License
+>> License
 
 This project is intended for educational and authorized security testing purposes.
 
