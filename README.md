@@ -8,7 +8,7 @@ It combines reconnaissance, service enumeration, web crawling, vulnerability int
 
 ---
 
-## Features
+# Features
 
 - Subdomain Enumeration
 - DNS Reconnaissance
@@ -310,33 +310,6 @@ Enum4u example.com --fast
 
 ---
 
-# Project Structure
-
-```text
-Enum4u/
-│
-├── enum4u/
-│   ├── core/
-│   ├── modules/
-│   ├── intelligence/
-│   ├── risk/
-│   ├── graph/
-│   ├── tools/
-│   └── reporting/
-│
-├── configs/
-├── data/
-├── docs/
-├── scripts/
-├── tests/
-├── output/
-│
-├── requirements.txt
-├── pyproject.toml
-└── README.md
-```
-
----
 
 # Disclaimer
 
@@ -378,7 +351,7 @@ Contributions, bug reports, and feature requests are welcome.
 
 # Author
 
-**Harsh Kumar**
+-> Harsh Kumar Singh!
 
 Cybersecurity Researcher | Ethical Hacker | Security Tool Developer
 
